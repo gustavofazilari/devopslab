@@ -3,6 +3,7 @@ name: DevOpsLab Pipeline
 
 # Evento que irá acionar a pipeline
 # Comment para ativar o actions -- GUSTAVO FEITO NO DIA 14/03 pq deu erro o Build
+# Comment para ativar o actions v2 -- GUSTAVO FEITO NO DIA 21/03 pq deu erro o Build
 on: 
   push:
     branches:
